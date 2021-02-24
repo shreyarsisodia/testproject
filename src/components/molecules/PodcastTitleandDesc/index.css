@@ -1,0 +1,9 @@
+.listtype
+{
+    list-style-type:none;
+    margin:0 0 0 0;
+}
+.flexBox
+{
+    display:flex;
+}

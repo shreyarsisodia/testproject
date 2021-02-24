@@ -1,0 +1,15 @@
+
+.flex-containerimage {
+  display: flex;
+  #background-color: DodgerBlue;
+    
+}
+
+.flex-containerimage > div {
+ #background-color: #f1f1f1;
+  font-size: 30px;
+}
+.flextype
+{
+    flex-direction:row;
+}

@@ -1,0 +1,10 @@
+@import'bootstrap/dist/css/bootstrap.min.css';
+.flexbox
+{
+    display:flex;
+    flex-direction:row;
+    padding:100px
+}
+li{
+  margin: 10px 0;
+}

@@ -1,0 +1,18 @@
+@import'bootstrap/dist/css/bootstrap.min.css';
+.voiceicon
+{
+font-size:27px;
+}
+.headerdiv
+{
+    margin:0px;
+}
+.micIcon
+{
+    font-size: 24px;
+    color:white;
+}
+.nav
+{
+   padding-right:5%;
+}

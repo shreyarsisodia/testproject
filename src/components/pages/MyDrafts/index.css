@@ -1,0 +1,22 @@
+
+.flex-containerimage {
+  display: flex;
+  #background-color: DodgerBlue;
+    
+}
+
+.flex-containerimage > div {
+ #background-color: #f1f1f1;
+  font-size: 30px;
+}
+.flextype
+{
+    flex-direction:row;
+}
+.DraftList
+{
+    margin-top:50px;
+    line-height:100px;
+    list-style-type: none;
+    
+}

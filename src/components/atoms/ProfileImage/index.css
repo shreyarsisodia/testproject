@@ -1,0 +1,22 @@
+.profilepicdiv
+{
+border-radius:20px;
+width:100px;
+height:100px;
+margin-right:150px;
+}
+.ChannelNameText
+{
+    float:right;
+}
+.flex-container-profilebox {
+  display: flex;
+  #background-color: DodgerBlue;
+  width:auto;
+}
+
+.flex-container-profilebox > div {
+  #background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+}
